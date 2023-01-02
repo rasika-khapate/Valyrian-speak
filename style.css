@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Philosopher:ital,wght@1,400;1,700&display=swap');
+
+body{
+    font-family: 'Philosopher', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    background-color: #fca5a5;
+    padding: 2rem;
+    margin: 0px;
+    font-size:2.5rem;
+}
+
+        textarea{
+            width: 90%;
+            display: block;
+            padding: 1rem;
+            margin: 1rem;
+        }
+
+        #output{
+            border: 1px solid black;
+            height: 10vh;
+            padding: 1rem;
+            margin: 1rem;
+        }
+
+        #txt-area{
+            height: 15vh;
+        }
+
+        #btn-translate{
+            background-color: #fca5a5;
+            padding: 1rem 3rem;
+            margin: 0rem 3rem;
+            border: none;
+            font-size:1.5rem;
+           
+        }
+        #footer{
+            background-color: #fca5a5;
+            margin: 0px;
+            padding: 1rem 3rem;
+        }
+
+        .container{
+            width: 786px;
+            margin: auto;
+        }
+
+        p{
+            width: 786px;
+            margin: auto;
+            font-size: large;
+            font-weight:500;
+        }
